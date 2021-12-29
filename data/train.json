@@ -1,0 +1,277 @@
+[
+  {
+    "name": "2021/01/13",
+    "data": {
+      "southMount": "Tak Terlihat",
+      "northEast": "Berawan",
+      "windDirection": "West",
+      "cloudMovement": 2,
+      "javaneseMonth": 7
+    },
+    "rainyDay": true
+  },
+  {
+    "name": "2021/01/27",
+    "data": {
+      "southMount": "Tak Terlihat",
+      "northEast": "Berawan",
+      "windDirection": "West",
+      "cloudMovement": 2,
+      "javaneseMonth": 7
+    },
+    "rainyDay": true
+  },
+  {
+    "name": "2021/02/10",
+    "data": {
+      "southMount": "Samar",
+      "northEast": "Berawan",
+      "windDirection": "West",
+      "cloudMovement": 3,
+      "javaneseMonth": 8
+    },
+    "rainyDay": true
+  },
+  {
+    "name": "2021/02/24",
+    "data": {
+      "southMount": "Tak Terlihat",
+      "northEast": "Berawan",
+      "windDirection": "West",
+      "cloudMovement": 1,
+      "javaneseMonth": 8
+    },
+    "rainyDay": true
+  },
+  {
+    "name": "2021/03/10",
+    "data": {
+      "southMount": "Samar",
+      "northEast": "Cerah",
+      "windDirection": "West",
+      "cloudMovement": 1,
+      "javaneseMonth": 9
+    },
+    "rainyDay": true
+  },
+  {
+    "name": "2021/03/24",
+    "data": {
+      "southMount": "Jelas",
+      "northEast": "Berawan",
+      "windDirection": "West",
+      "cloudMovement": 1,
+      "javaneseMonth": 9
+    },
+    "rainyDay": false
+  },
+  {
+    "name": "2021/04/07",
+    "data": {
+      "southMount": "Samar",
+      "northEast": "Berawan",
+      "windDirection": "West",
+      "cloudMovement": 2,
+      "javaneseMonth": 10
+    },
+    "rainyDay": true
+  },
+  {
+    "name": "2021/04/21",
+    "data": {
+      "southMount": "Tak Terlihat",
+      "northEast": "Berawan",
+      "windDirection": "West",
+      "cloudMovement": 2,
+      "javaneseMonth": 11
+    },
+    "rainyDay": false
+  },
+  {
+    "name": "2021/05/05",
+    "data": {
+      "southMount": "Jelas",
+      "northEast": "Berawan",
+      "windDirection": "West",
+      "cloudMovement": 0,
+      "javaneseMonth": 11
+    },
+    "rainyDay": false
+  },
+  {
+    "name": "2021/05/19",
+    "data": {
+      "southMount": "Samar",
+      "northEast": "Cerah",
+      "windDirection": "West",
+      "cloudMovement": 2,
+      "javaneseMonth": 12
+    },
+    "rainyDay": true
+  },
+  {
+    "name": "2021/06/02",
+    "data": {
+      "southMount": "Jelas",
+      "northEast": "Cerah",
+      "windDirection": "West",
+      "cloudMovement": 2,
+      "javaneseMonth": 12
+    },
+    "rainyDay": true
+  },
+  {
+    "name": "2021/06/16",
+    "data": {
+      "southMount": "Jelas",
+      "northEast": "Cerah",
+      "windDirection": "None",
+      "cloudMovement": 0,
+      "javaneseMonth": 12
+    },
+    "rainyDay": false
+  },
+  {
+    "name": "2021/06/30",
+    "data": {
+      "southMount": "Jelas",
+      "northEast": "Cerah",
+      "windDirection": "None",
+      "cloudMovement": 0,
+      "javaneseMonth": 1
+    },
+    "rainyDay": false
+  },
+  {
+    "name": "2021/07/14",
+    "data": {
+      "southMount": "Samar",
+      "northEast": "Berawan",
+      "windDirection": "None",
+      "cloudMovement": 0,
+      "javaneseMonth": 1
+    },
+    "rainyDay": false
+  },
+  {
+    "name": "2021/07/28",
+    "data": {
+      "southMount": "Jelas",
+      "northEast": "Cerah",
+      "windDirection": "None",
+      "cloudMovement": 0,
+      "javaneseMonth": 1
+    },
+    "rainyDay": false
+  },
+  {
+    "name": "2021/08/11",
+    "data": {
+      "southMount": "Jelas",
+      "northEast": "Berawan",
+      "windDirection": "East",
+      "cloudMovement": 1,
+      "javaneseMonth": 2
+    },
+    "rainyDay": false
+  },
+  {
+    "name": "2021/08/25",
+    "data": {
+      "southMount": "Jelas",
+      "northEast": "Berawan",
+      "windDirection": "East",
+      "cloudMovement": 1,
+      "javaneseMonth": 3
+    },
+    "rainyDay": false
+  },
+  {
+    "name": "2021/09/08",
+    "data": {
+      "southMount": "Samar",
+      "northEast": "Berawan",
+      "windDirection": "East",
+      "cloudMovement": 1,
+      "javaneseMonth": 3
+    },
+    "rainyDay": false
+  },
+  {
+    "name": "2021/09/22",
+    "data": {
+      "southMount": "Jelas",
+      "northEast": "Berawan",
+      "windDirection": "None",
+      "cloudMovement": 0,
+      "javaneseMonth": 4
+    },
+    "rainyDay": false
+  },
+  {
+    "name": "2021/10/06",
+    "data": {
+      "southMount": "Samar",
+      "northEast": "Berawan",
+      "windDirection": "None",
+      "cloudMovement": 0,
+      "javaneseMonth": 4
+    },
+    "rainyDay": false
+  },
+  {
+    "name": "2021/10/20",
+    "data": {
+      "southMount": "Tak Terlihat",
+      "northEast": "Berawan",
+      "windDirection": "West",
+      "cloudMovement": 2,
+      "javaneseMonth": 5
+    },
+    "rainyDay": true
+  },
+  {
+    "name": "2021/11/03",
+    "data": {
+      "southMount": "Tak Terlihat",
+      "northEast": "Berawan",
+      "windDirection": "West",
+      "cloudMovement": 2,
+      "javaneseMonth": 5
+    },
+    "rainyDay": true
+  },
+  {
+    "name": "2021/11/17",
+    "data": {
+      "southMount": "Samar",
+      "northEast": "Berawan",
+      "windDirection": "West",
+      "cloudMovement": 1,
+      "javaneseMonth": 6
+    },
+    "rainyDay": true
+  },
+  {
+    "name": "2021/12/01",
+    "data": {
+      "southMount": "Tak Terlihat",
+      "northEast": "Cerah",
+      "windDirection": "West",
+      "cloudMovement": 2,
+      "javaneseMonth": 6
+    },
+    "rainyDay": true
+  },
+  {
+    "name": "2021/12/15",
+    "data": {
+      "southMount": "Samar",
+      "northEast": "Cerah",
+      "windDirection": "West",
+      "cloudMovement": 2,
+      "javaneseMonth": 6
+    },
+    "rainyDay": false
+  }
+]
