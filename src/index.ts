@@ -1,3 +1,4 @@
-const world = 'world';
+import { countSouthMountData } from "./utils/counters";
+import { trainingData } from "./utils/dataload";
 
-console.log(world);
+console.log(countSouthMountData(trainingData));
